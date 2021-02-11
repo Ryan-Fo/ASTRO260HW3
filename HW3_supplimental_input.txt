@@ -1,0 +1,11 @@
+HW3 Astro260
+
+3) My values here do not match at all. I think this has to do with reading in a singular analytical derivative value
+for an equation that needs to apply a chain rule. Sine and cosine oscillate with each repeated derivative which should keep 
+overall values within a range. My data seems to grow with the increasing time value. I think this may be user error here, 
+however there still should be a discrepancy with my calculated values and what the data shows.
+
+4)I'm unsure how to code this, but we could define the chain rule with sine and cosine in the code because every 5
+derivatives it returns to the first trigonometric function. I think if we applied some kind of for loop within the
+analysis for this it could help keep the values somewhere reasonably close to what the experimental 
+data showed.
